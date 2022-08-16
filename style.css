@@ -1,6 +1,21 @@
 body {
     background-color: #483D8B;
   }
+
+  main {
+    backgrond-color: 
+    padding: 20px
+    border-radius: 10px
+    
+    min-width: 200px;
+    max-width: 800px;
+    margin: auto;
+}
+
+
+  img {
+   width: 100%
+}
   
   h1 {
     color: #FFFFFF;
@@ -31,3 +46,4 @@ body {
   a:hover, a:active {
     background-color: red;
   }
+  
